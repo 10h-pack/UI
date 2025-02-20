@@ -1407,7 +1407,7 @@ function NEVERWIN:KeySystem(Mame,Link,func_check_key)
 	GetKey.Size = UDim2.new(0.449999988, 0, 0.327377737, 0)
 	GetKey.ZIndex = 4
 	GetKey.Font = Enum.Font.SourceSansBold
-	GetKey.Text = "Get Key"
+	GetKey.Text = "获取卡密"
 	GetKey.TextColor3 = Color3.fromRGB(255, 255, 255)
 	GetKey.TextScaled = true
 	GetKey.TextSize = 14.000
@@ -1428,7 +1428,7 @@ function NEVERWIN:KeySystem(Mame,Link,func_check_key)
 	Title.Size = UDim2.new(0.949999988, 0, 0.5, 0)
 	Title.ZIndex = 1000
 	Title.Font = Enum.Font.Unknown
-	Title.Text = "Get Key"
+	Title.Text = "获取卡密"
 	Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Title.TextScaled = true
 	Title.TextSize = 14.000
@@ -1447,7 +1447,7 @@ function NEVERWIN:KeySystem(Mame,Link,func_check_key)
 	Submit.Size = UDim2.new(0.449999988, 0, 0.327377737, 0)
 	Submit.ZIndex = 4
 	Submit.Font = Enum.Font.SourceSansBold
-	Submit.Text = "Get Key"
+	Submit.Text = "验证"
 	Submit.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Submit.TextScaled = true
 	Submit.TextSize = 14.000
@@ -1468,7 +1468,7 @@ function NEVERWIN:KeySystem(Mame,Link,func_check_key)
 	Title_2.Size = UDim2.new(0.949999988, 0, 0.5, 0)
 	Title_2.ZIndex = 1000
 	Title_2.Font = Enum.Font.Unknown
-	Title_2.Text = "Submit"
+	Title_2.Text = "提交"
 	Title_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Title_2.TextScaled = true
 	Title_2.TextSize = 14.000
